@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./m3u
           enable_jekyll: true
-          cname: github.com/shengcp/iptv-sources/
+          cname: shengcp.github.io/iptv-sources/
