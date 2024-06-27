@@ -461,4 +461,4 @@
 | 455 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 456 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **Thu Jun 27 2024 01:06:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 27 2024 02:31:03 GMT+0000 (Coordinated Universal Time)**
